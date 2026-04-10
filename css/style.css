@@ -4,3 +4,14 @@
     background-color: rgb(92, 158, 180);   
 }
 
+.elemento {
+    width: 100px;
+    height: 100px;
+    border: 2px solid rgb(244, 244, 244);
+    text-align: center;
+    line-height: 100px;
+    align-content: baseline;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
