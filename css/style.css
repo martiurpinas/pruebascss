@@ -1,9 +1,13 @@
 .contendor {
-    width: 400px;
-    height: 400px;
+    width: 600px;
+    height: 500px;
     background-color: aquamarine;
     display: flex;
-    flex-direction: row;
+    flex-direction: row, row-reverse;
+    justify-content: space-between;
+    align-items: space-evenly;
+    align-content: space-evenly;
+    flex-wrap: nowrap;
 }
 
 .elemento {
