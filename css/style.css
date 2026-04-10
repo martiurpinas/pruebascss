@@ -1,7 +1,9 @@
 .contendor {
     width: 400px;
     height: 400px;
-    background-color: aquamarine;   
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
 }
 
 .elemento {
